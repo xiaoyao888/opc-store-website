@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue-export-helper-DlAUqK2U.js";import{u as t,aL as c}from"./index-lygPnusf.js";const o={},s={class:"wscn-http404-container"};function a(n,r){return c(),t("div",s," 404 ")}const f=e(o,[["render",a],["__scopeId","data-v-b3a667e8"]]);export{f as default};
