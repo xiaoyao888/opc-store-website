@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue-export-helper-DlAUqK2U.js";import{u as c,aL as o}from"./index-lygPnusf.js";const r={},t={class:"errPage-container"};function a(s,_){return o(),c("div",t," 401 ")}const f=e(r,[["render",a],["__scopeId","data-v-4141da7c"]]);export{f as default};
